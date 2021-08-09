@@ -19,13 +19,4 @@ Here are my info:
      </p>
   </td>
 </table>
-<table align="center">
-<table align="center">
-  <td width="40%" valign="top">
-    <h3 align="center">Discord</h3>
-    <p align="center">
-      <img src="https://discord.c99.nl/widget/theme-1/809244553768861706.png"/>
-    </p>
-  </td>
-</table>
 
