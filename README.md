@@ -11,9 +11,21 @@ Here are my info:
 - 😄 Pronouns: Raihan
 - ⚡ Fun fact: I love Food
 
-    <p align="left">
-    <a href="https://github.com/gilangadhan">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
-    </a>
+    <br>
+   <td width="40%" valign="top">
+    <h3 align="center"> Most used languages</h3>
+     <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuminetteBourgeons&theme=monokai&column=7&no-frame=true"/>
+     </p>
+  </td>
+</table>
+<table align="center">
+<table align="center">
+  <td width="40%" valign="top">
+    <h3 align="center">Discord</h3>
+    <p align="center">
+      <img src="https://discord.c99.nl/widget/theme-1/809244553768861706.png"/>
     </p>
+  </td>
+</table>
+
